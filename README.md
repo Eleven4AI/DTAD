@@ -101,7 +101,7 @@ We compare our method with baselines whose source code is publicly available.
   </tr>
   <tr>
     <td><a href="https://github.com/WisconsinAIVision/UniversalFakeDetect" target="_blank">UnivFD</a></td>
-    <td>94.4</td><td>99.6</td><td>64.8</td><td>83.9</td>
+    <td><strong>94.4</strong></td><td><strong>99.6</strong></td><td>64.8</td><td>83.9</td>
     <td>61.8</td><td>74.6</td><td>73.8</td><td>86.4</td>
   </tr>
   <tr>
