@@ -129,7 +129,7 @@ if __name__ == '__main__':
     parser.add_argument('--data-root', default=' ', type=str,
                         help='the root directory of datasets')
     parser.add_argument('--dataset',default=' ',help='dataset name')
-    parser.add_argument('--denoising-output-root', default=' ', help='the directory for saving the denoising outputs')
+    parser.add_argument('--denoising-root', default=' ', help='the directory for saving the denoising outputs')
     parser.add_argument('--ckpt-path', type=str, default='runwayml/stable-diffusion-v1-5')
     parser.add_argument('--device', type=str, default='cuda')
     args = parser.parse_args()

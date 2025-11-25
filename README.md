@@ -1,7 +1,7 @@
 
-# Denoising Trajectory Analysis for Zero-Shot AI-Genenrated Image Detection
+# Denoising Trajectory Biases for Zero-Shot AI-Genenrated Image Detection
 
-This repository is the official implementation of ```Denoising Trajectory Analysis for Zero-Shot AI-Genenrated Image Detection```.
+This repository is the official implementation of ```Denoising Trajectory Biases for Zero-Shot AI-Genenrated Image Detection(NeurIPS 2025)```.
 
 <p align="center">
     <img src="resource/method.png" width="80%"> <br>
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 - Download the test set of [ForenSynths](https://github.com/PeterWang512/CNNDetection)
 and [GenImage](https://github.com/GenImage-Dataset/GenImage) .
-- We also provide the dataset of **New Generator** in the [anonymous link](https://zenodo.org/records/15468713) (**we will open both the code and dataset once our paper is accepted**).
+- We also provide the dataset of **New Generator** in  [this link](https://zenodo.org/records/15468713).
 - Please change datasets to the following structure:
 ```
 dataset_root
