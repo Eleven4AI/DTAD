@@ -1,7 +1,7 @@
 
-# Denoising Trajectory Biases for Zero-Shot AI-Genenrated Image Detection
+# Denoising Trajectory Biases for Zero-Shot AI-Genenrated Image Detection (NeurIPS 2025)
 
-This repository is the official implementation of ```Denoising Trajectory Biases for Zero-Shot AI-Genenrated Image Detection(NeurIPS 2025)```.
+This repository is the official implementation of [Denoising Trajectory Biases for Zero-Shot AI-Genenrated Image Detection](https://openreview.net/forum?id=2h8vXbEufN).
 
 <p align="center">
     <img src="resource/method.png" width="80%"> <br>
@@ -130,7 +130,10 @@ We compare our method with baselines whose source code is publicly available.
   </tr>
 </table>
 
-## Acknowledge
-We would like to thank [Sheng-Yu Wang](https://github.com/PeterWang512/CNNDetection),
-[Ming-Jian Zhu](https://github.com/GenImage-Dataset/GenImage) and [Quentin Bammey](https://zenodo.org/records/10066460) for releasing the AI-generated image datasets.
-We would also like to thank the authors of the works with publicly available source code, which made our comparisons possible.
+[comment]: <> (## Acknowledge)
+
+[comment]: <> (We would like to thank [Sheng-Yu Wang]&#40;https://github.com/PeterWang512/CNNDetection&#41;,)
+
+[comment]: <> ([Ming-Jian Zhu]&#40;https://github.com/GenImage-Dataset/GenImage&#41; and [Quentin Bammey]&#40;https://zenodo.org/records/10066460&#41; for releasing the AI-generated image datasets.)
+
+[comment]: <> (We would also like to thank the authors of the works with publicly available source code, which made our comparisons possible.)
